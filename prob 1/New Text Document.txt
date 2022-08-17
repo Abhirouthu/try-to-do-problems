@@ -1,0 +1,16 @@
+1.A sales dataset is found in “Problem Set/Q1/data/sales_data.csv” 
+
+2.Product prices are found in “Problem Set/Q1/data/product_prices.csv” 
+
+3.Revenue is calculated by multiplying “Units Sold” by “Price” 
+
+
+**questions**
+1.Which 10 products have the highest unit sales?   The Products with these product_ID 
+
+
+
+2.Which 10 products have the highest revenue? 
+
+
+3.Which 10 stores have the lowest revenue?(Answer) 
